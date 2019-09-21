@@ -58,22 +58,44 @@ Convierte cualquier dato al tipo decimal
 
 ## Programas
 
-### Ejercicio 1
+### Ejercicio 1: Dirección de envió
 
 #### Un programa que muestre un remitente y un destinatario, a fin de que se visualize para imprimir en un sobre de correo.
 
 Click para ver el código:  
 
+### Ejercicio 2: Hola
 
-### Ejercicio 2
-### Ejercicio 3
-### Ejercicio 4
-### Ejercicio 5
+#### Un programa que le pida al ususario su nombre.
+
+Click para ver el código:  
+
+### Ejercicio 3: Área de una habitación
+
+#### Un programa que calcule el área, introduciendo el largo y el ancho en metros.
+
+Click para ver el código:
+
+### Ejercicio 4: Área de un campo
+
+#### Un Programa que calcula el área de un campo y lo despliega en acres.
+
+Click para ver el código:
+
+### Ejercicio 5: 
+
+Click para ver el código:
 ### Ejercicio 6
+
+Click para ver el código:
 ### Ejercicio 7
+Click para ver el código:
 ### Ejercicio 8
+Click para ver el código:
 ### Ejercicio 9
+Click para ver el código:
 ### Ejercicio 10
+Click para ver el código:
 
 
 
