@@ -60,19 +60,19 @@ Convierte cualquier dato al tipo decimal
 
 ### Ejercicio 1: Dirección de envió
 
-#### Un programa que muestre un remitente y un destinatario, a fin de que se visualize para imprimir en un sobre de correo.
+#### Un programa que muestra un remitente y un destinatario, a fin de que se visualize para imprimir en un sobre de correo.
 
 Click para ver el código:  
 
 ### Ejercicio 2: Hola
 
-#### Un programa que le pida al ususario su nombre.
+#### Un programa que le pide al ususario su nombre y le contesta hola.
 
 Click para ver el código:  
 
 ### Ejercicio 3: Área de una habitación
 
-#### Un programa que calcule el área, introduciendo el largo y el ancho en metros.
+#### Un programa que calcula el área, introduciendo el largo y el ancho en metros.
 
 Click para ver el código:
 
