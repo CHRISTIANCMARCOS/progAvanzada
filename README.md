@@ -32,5 +32,42 @@ Es un paradigma de programación en el que los conceptos del mundo real relevant
 
 Es un lenguaje que con su sintaxis simple, clara y sencilla, puede automatizar simples tareas como: mover y renombrar miles de archivos y clasificarlos en folders, llenar de forma automatica formularios en internet, descargar archivos o extraer información de páginas de internet de forma masiva, hacer que su computadora le envié información a su teléfono de quien la esta usando, checar su email y contestarlo de forma automática.
 
+## Comandos
+
+### print()
+
+Imprime un mensaje en la pantalla o en otro dispositivo de salida. El mensaje puede ser una cadena de caracteres o cualquier objeto que sea convertible a cadena de caracteres
+
+#### Ejemplo:
+
+print('Hola')
+
+### input()
+
+Permite al usuario introducir información utiliando el teclado, la variable donde se guarda dicha info es del tipo string o cadena de caracteres.
+
+input('Inserta tu edad: ')
+
+### int
+
+Convierte cualquier dato al tipo entero 
+
+### float 
+
+Convierte cualquier dato al tipo decimal 
+
+## Programas
+
+### Ejercicio 1
+### Ejercicio 2
+### Ejercicio 3
+### Ejercicio 4
+### Ejercicio 5
+### Ejercicio 6
+### Ejercicio 7
+### Ejercicio 8
+### Ejercicio 9
+### Ejercicio 10
+
 
 
