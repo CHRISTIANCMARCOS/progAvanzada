@@ -28,5 +28,9 @@ El interprete de Phython esta disponible en multitud de plataformas (Unix, Solar
 
 Es un paradigma de programación en el que los conceptos del mundo real relevantes para nuestro problema se trasladan a clases y objetos de nuestro programa.
 
+### ¿Por qué Phyton?
+
+Es un lenguaje que con su sintaxis simple, clara y sencilla, puede automatizar simples tareas como: mover y renombrar miles de archivos y clasificarlos en folders, llenar de forma automatica formularios en internet, descargar archivos o extraer información de páginas de internet de forma masiva, hacer que su computadora le envié información a su teléfono de quien la esta usando, checar su email y contestarlo de forma automática.
+
 
 
