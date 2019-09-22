@@ -62,41 +62,58 @@ Convierte cualquier dato al tipo decimal
 
 #### Un programa que muestra un remitente y un destinatario, a fin de que se visualize para imprimir en un sobre de correo.
 
-Click para ver la captura: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO1.jpg
-
+Click para ver la captura: 
 Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO1.py  
 
 ### Ejercicio 2: Hola
 
 #### Un programa que le pide al ususario su nombre y le contesta hola.
 
+Click para ver la captura:
 Click para ver el código:  
 
 ### Ejercicio 3: Área de una habitación
 
 #### Un programa que calcula el área, introduciendo el largo y el ancho en metros.
 
+Click para ver la captura:
 Click para ver el código:
 
 ### Ejercicio 4: Área de un campo
 
 #### Un Programa que calcula el área de un campo y lo despliega en acres.
 
+Click para ver la captura:
 Click para ver el código:
 
 ### Ejercicio 5: 
 
+Click para ver la captura:
 Click para ver el código:
-### Ejercicio 6
 
+### Ejercicio 6:
+
+Click para ver la captura:
 Click para ver el código:
-### Ejercicio 7
+
+### Ejercicio 7:
+
+Click para ver la captura:
 Click para ver el código:
-### Ejercicio 8
+
+### Ejercicio 8:
+
+Click para ver la captura:
 Click para ver el código:
-### Ejercicio 9
+
+### Ejercicio 9:
+
+Click para ver la captura:
 Click para ver el código:
-### Ejercicio 10
+
+### Ejercicio 10:
+
+Click para ver la captura:
 Click para ver el código:
 
 
