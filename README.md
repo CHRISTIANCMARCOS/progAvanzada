@@ -63,28 +63,32 @@ Convierte cualquier dato al tipo decimal
 #### Un programa que muestra un remitente y un destinatario, a fin de que se visualize para imprimir en un sobre de correo.
 
 ![Screenshot](EJERCICIO1.jpg) 
-Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO1.py  
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO1.py  
 
 ### Ejercicio 2: Hola
 
 #### Un programa que le pide al ususario su nombre y le contesta hola.
 
 ![Screenshot](EJERCICIO2.jpg)
-Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO2.py  
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO2.py  
 
 ### Ejercicio 3: Área de una habitación
 
 #### Un programa que calcula el área, introduciendo el largo y el ancho en metros.
 
 ![Screenshot](EJERCICIO3.jpg)
-Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO3.py
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO3.py
 
 ### Ejercicio 4: Área de un campo
 
 #### Un Programa que calcula el área de un campo y lo despliega en acres.
 
 ![Screenshot](EJERCICIO4.jpg)
-Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO4.py
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO4.py
 
 ### Ejercicio 5: 
 
