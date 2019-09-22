@@ -69,22 +69,22 @@ Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob
 
 #### Un programa que le pide al ususario su nombre y le contesta hola.
 
-Click para ver la captura:
-Click para ver el código:  
+![Screenshot](EJERCICIO2.jpg)
+Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO2.py  
 
 ### Ejercicio 3: Área de una habitación
 
 #### Un programa que calcula el área, introduciendo el largo y el ancho en metros.
 
-Click para ver la captura:
-Click para ver el código:
+![Screenshot](EJERCICIO3.jpg)
+Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO3.py
 
 ### Ejercicio 4: Área de un campo
 
 #### Un Programa que calcula el área de un campo y lo despliega en acres.
 
-Click para ver la captura:
-Click para ver el código:
+![Screenshot](EJERCICIO4.jpg)
+Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO4.py
 
 ### Ejercicio 5: 
 
