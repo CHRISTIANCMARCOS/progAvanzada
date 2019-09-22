@@ -62,6 +62,7 @@ Convierte cualquier dato al tipo decimal
 
 #### Un programa que muestra un remitente y un destinatario, a fin de que se visualize para imprimir en un sobre de correo.
 
+(https://raw.githubusercontent.com/CHRISTIANCMARCOS/progAvanzada/master/assets/EJERCICIO1.jpg)
 https://raw.githubusercontent.com/CHRISTIANCMARCOS/progAvanzada/master/ruta/al/assets/EJERCICIO1.jpg
 Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO1.py  
 
