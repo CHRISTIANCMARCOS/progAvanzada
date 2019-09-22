@@ -90,30 +90,35 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO4.py
 
-### Ejercicio 5: 
+### Ejercicio 5: Depositos de botellas
 
-Click para ver la captura:
-Click para ver el código:
+![Screenshot](EJERCICIO5.jpg)
 
-### Ejercicio 6:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO5.py
 
-Click para ver la captura:
-Click para ver el código:
+### Ejercicio 6: Impuestos y propina
 
-### Ejercicio 7:
+![Screenshot](EJERCICIO6.jpg)
 
-Click para ver la captura:
-Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO6.py
 
-### Ejercicio 8:
+### Ejercicio 7: Suma de los primeros numeros n enteros positivos
 
-Click para ver la captura:
-Click para ver el código:
+![Screenshot](EJERCICIO7.jpg)
 
-### Ejercicio 9:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO7.py
 
-Click para ver la captura:
-Click para ver el código:
+### Ejercicio 8: Cajas de cereal
+
+![Screenshot](EJERCICIO8.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO8.py
+
+### Ejercicio 9:Interes compuesto
+
+![Screenshot](EJERCICIO9.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO9.py
 
 ### Ejercicio 10:
 
