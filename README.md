@@ -68,7 +68,7 @@ Convierte cualquier dato al tipo decimal
 
 ### Ejercicio 2: Hola
 
-#### Un programa que le pide al ususario su nombre y le contesta hola.
+#### Un programa que le pide al usuario su nombre y le contesta hola.
 
 ![Screenshot](EJERCICIO2.jpg)
 
@@ -84,7 +84,7 @@ Convierte cualquier dato al tipo decimal
 
 ### Ejercicio 4: Área de un campo
 
-#### Un Programa que calcula el área de un campo y lo despliega en acres.
+#### Un programa que calcula el área de un campo y lo despliega en acres.
 
 ![Screenshot](EJERCICIO4.jpg)
 
