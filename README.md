@@ -58,7 +58,7 @@ Convierte cualquier dato al tipo decimal
 
 ## Programas
 
-### Ejercicio 1: Dirección de envió
+### Ejercicio 1: Dirección de envió.
 
 #### Un programa que muestra un remitente y un destinatario, a fin de que se visualize para imprimir en un sobre de correo.
 
@@ -66,7 +66,7 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO1.py  
 
-### Ejercicio 2: Hola
+### Ejercicio 2: Hola.
 
 #### Un programa que le pide al usuario su nombre y le contesta hola.
 
@@ -74,7 +74,7 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO2.py  
 
-### Ejercicio 3: Área de una habitación
+### Ejercicio 3: Área de una habitación.
 
 #### Un programa que calcula el área, introduciendo el largo y el ancho en metros.
 
@@ -82,7 +82,7 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO3.py
 
-### Ejercicio 4: Área de un campo
+### Ejercicio 4: Área de un campo.
 
 #### Un programa que calcula el área de un campo y lo despliega en acres.
 
@@ -90,7 +90,7 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO4.py
 
-### Ejercicio 5: Depositos de botellas
+### Ejercicio 5: Depositos de botellas.
 
 #### Un programa que calcula el total de dolares de las botellas introducidas, ya sean chicas o grandes.
 
@@ -98,7 +98,7 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO5.py
 
-### Ejercicio 6: Impuestos y propina
+### Ejercicio 6: Impuestos y propina.
 
 #### Un programa que el ususario introduce sus alimentos y el precio, obteniendo el porcentaje de impuestos y propina del total de la cuenta.
 
@@ -106,7 +106,7 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO6.py
 
-### Ejercicio 7: Suma de los primeros numeros n enteros positivos
+### Ejercicio 7: Suma de los primeros numeros n enteros positivos.
 
 #### Un programa que calcula la suma de los numeros enteros positivos de un numero.
 
@@ -114,7 +114,7 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO7.py
 
-### Ejercicio 8: Cajas de cereal
+### Ejercicio 8: Cajas de cereal.
 
 #### Un programa que calcula el peso de las cajas de cereal introducidas por el ususario.
 
@@ -122,7 +122,7 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO8.py
 
-### Ejercicio 9: Interés compuesto
+### Ejercicio 9: Interés compuesto.
 
 #### Un programa que calcula el interes del estado de cuenta para tres años de un usuario.
 
@@ -130,7 +130,7 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO9.py
 
-### Ejercicio 10: Aritmética 
+### Ejercicio 10: Aritmética.
 
 #### Un programa que calcula operaciones básicas con dos variables.
 
@@ -138,7 +138,7 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO10.py
 
-### Ejercicio 11: Eficiencia de combustible
+### Ejercicio 11: Eficiencia de combustible.
 
 #### Un convertidor de eficiencia de EUA (MPG) a unidades Mexicanas (L/100km).
 
