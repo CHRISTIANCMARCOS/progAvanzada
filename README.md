@@ -122,7 +122,7 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO8.py
 
-### Ejercicio 9:Interes compuesto
+### Ejercicio 9: Interes compuesto
 
 #### Un programa que calcula el interes del estado de cuenta para tres años de un usuario.
 
@@ -130,10 +130,20 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO9.py
 
-### Ejercicio 10:
+### Ejercicio 10: Aritmética 
 
-Click para ver la captura:
-Click para ver el código:
+#### Un programa que calcula operaciones básicas con dos variables.
 
+![Screenshot](EJERCICIO10.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO10.py
+
+### Ejercicio 11: Eficiencia de combustible
+
+#### Un convertidor de eficiencia de EUA (MPG) a unidades Mexicanas (L/100km).
+
+![Screenshot](EJERCICIO11.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO11.py
 
 
