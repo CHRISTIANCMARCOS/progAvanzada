@@ -1,6 +1,6 @@
-# Programaciòn Avanzada 
+# Programación Avanzada 
 
-## Introducciòn
+## Introducción
 
 ### ¿Qué es Phyton?
 
@@ -92,11 +92,15 @@ Convierte cualquier dato al tipo decimal
 
 ### Ejercicio 5: Depositos de botellas
 
+#### Un programa que calcula el total de dolares de las botellas introducidas, ya sean chicas o grandes.
+
 ![Screenshot](EJERCICIO5.jpg)
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO5.py
 
 ### Ejercicio 6: Impuestos y propina
+
+#### Un programa que el ususario introduce sus alimentos y el precio, obteniendo el porcentaje de impuestos y propina del total de la cuenta.
 
 ![Screenshot](EJERCICIO6.jpg)
 
@@ -104,17 +108,23 @@ Convierte cualquier dato al tipo decimal
 
 ### Ejercicio 7: Suma de los primeros numeros n enteros positivos
 
+#### Un programa que calcula la suma de los numeros enteros positivos de un numero.
+
 ![Screenshot](EJERCICIO7.jpg)
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO7.py
 
 ### Ejercicio 8: Cajas de cereal
 
+#### Un programa que calcula el peso de las cajas de cereal introducidas por el ususario.
+
 ![Screenshot](EJERCICIO8.jpg)
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO8.py
 
 ### Ejercicio 9:Interes compuesto
+
+#### Un programa que calcula el interes del estado de cuenta para tres años de un usuario.
 
 ![Screenshot](EJERCICIO9.jpg)
 
