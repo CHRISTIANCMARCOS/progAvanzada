@@ -122,7 +122,7 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO8.py
 
-### Ejercicio 9: Interes compuesto
+### Ejercicio 9: Interés compuesto
 
 #### Un programa que calcula el interes del estado de cuenta para tres años de un usuario.
 
