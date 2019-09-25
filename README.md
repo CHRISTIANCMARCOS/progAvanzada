@@ -146,12 +146,67 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO11.py
 
-### Ejercicio 11: Eficiencia de combustible.
+### Ejercicio 12: Distancia entre dos puntos en la Tierra. 
 
-####
+#### La distancia entre dos puntos de la tierra ingresando los valores en grados. 
 
-![Screenshot](EJERCICIO11.jpg)
+![Screenshot](EJERCICIO12.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO12.py
+
+### Ejercicio 13: 
+
+#### 
+
+![Screenshot](EJERCICIO.jpg)
 
 ##### Click para ver el código:
 
+### Ejercicio 14: 
+
+####
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 15: 
+
+#### 
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 16: 
+
+#### 
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 17: 
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 18: 
+
+#### 
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 19: Caida libre. 
+
+#### Un programa que calcula la velocidad fina de un objeto con referente a una altura.  
+
+![Screenshot](EJERCICIO19.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO19.py
 
