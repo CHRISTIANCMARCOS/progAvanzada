@@ -204,7 +204,7 @@ Convierte cualquier dato al tipo decimal
 
 ### Ejercicio 19: Caida libre. 
 
-#### Un programa que calcula la velocidad fina de un objeto con referente a una altura.  
+#### Un programa que calcula la velocidad final de un objeto con referente a una altura.  
 
 ![Screenshot](EJERCICIO19.jpg)
 
