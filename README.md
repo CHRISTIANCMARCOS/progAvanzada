@@ -146,4 +146,12 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO11.py
 
+### Ejercicio 11: Eficiencia de combustible.
+
+####
+
+![Screenshot](EJERCICIO11.jpg)
+
+##### Click para ver el código:
+
 
