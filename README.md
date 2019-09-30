@@ -154,53 +154,53 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO12.py
 
-### Ejercicio 13: 
+### Ejercicio 13:Haciendo el cambio. 
 
-#### 
+#### Un programa que lee, la cantidad de centavos como entero y calcula las denominaciones de monedas que deberían usarse para dar esa cantidad de cambio. El cambio debe administrarse utilizando la menor cantidad de monedas posible.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO13.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO13.py
 
-### Ejercicio 14: 
+### Ejercicio 14: Unidades de altura. 
 
-####
+#### Un programa que lee un número de pies, seguido de varias pulgadas. Una vez que se lee estos valores, su programa debe calcular y mostrar el número equivalente de centímetros.
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO14.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO14.py
 
-### Ejercicio 15: 
+### Ejercicio 15: Unidades de distancia. 
 
-#### 
+#### Un programa que comienza leyendo una medida en pies. Entonces el programa debe mostrar la distancia equivalente en pulgadas, yardas y millas.
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO15.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO15.py
 
-### Ejercicio 16: 
+### Ejercicio 16: Área y Volumen. 
 
-#### 
+#### Un programa que lee un radio. El programa calcula y muestra el área de un círculo con radio r y el volumen de una esfera.
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO16.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO16.py
 
-### Ejercicio 17: 
+### Ejercicio 17: Capacidad calorífica. 
 
-####  
+#### Un programa que lee la masa de un poco de agua y el cambio de temperatura. El programa debe mostrar la cantidad total de energía que debe ser agregado o eliminado para lograr el cambio de temperatura deseado, también calcula el costo de calentar el agua. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO17.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO17.py
 
-### Ejercicio 18: 
+### Ejercicio 18: Volumen de un cilindro. 
 
-#### 
+#### Un programa que lee el radio del cilindro, junto con su altura  y calcula su volumen.
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO18.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO18.py
 
 ### Ejercicio 19: Caida libre. 
 
@@ -209,4 +209,6 @@ Convierte cualquier dato al tipo decimal
 ![Screenshot](EJERCICIO19.jpg)
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO19.py
+
+
 
