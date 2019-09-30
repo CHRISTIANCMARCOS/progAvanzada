@@ -154,7 +154,7 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO12.py
 
-### Ejercicio 13:Haciendo el cambio. 
+### Ejercicio 13: Haciendo el cambio. 
 
 #### Un programa que lee, la cantidad de centavos como entero y calcula las denominaciones de monedas que deberían usarse para dar esa cantidad de cambio. El cambio debe administrarse utilizando la menor cantidad de monedas posible.  
 
@@ -210,5 +210,59 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO19.py
 
+### Ejercicio 20:  
 
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código: 
+
+### Ejercicio 21:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 22:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 23:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 24:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 25: Unidades de tiempo.  
+
+#### Un programa que pide la duración de días, horas, minutos y segundos que calcula y desplega la cantidad total de segundos de duración.  
+
+![Screenshot](EJERCICIO25.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO25.py
+
+### Ejercicio 26: Unidades de tiempo 2.  
+
+#### Un programa que comienza por leer una cantidad de segundos introducidos. El programa debe despliega la cantidad equivalente en la forma de DD:HH:MM:SS, donde DD son los dias, HH son las horas, MM son los minutos y SS son los segundos.  
+
+![Screenshot](EJERCICIO26.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO26.py
 
