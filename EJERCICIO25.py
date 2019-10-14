@@ -1,20 +1,26 @@
-# Ejercicio 25
+# Ejercicio 26
 
-# Unidades de tiempo 
+# Unidades de tiempo 2.
 
-# Crear un programa que le pida al usuario la duración de días, horas, minutos y segundos.
-# Calcular y desplegar la cantidad total de segundos de duaración.
+# En este ejercicio usted revertirá el proceso descrito en el ejercicio previo.
+# Desarrolle un programa que comienze por leer una cantidad de segundos introducidos por el usuario.
+# Su programa debe desplegar la cantidad equivalente en la forma de DD:HH:MM:SS, donde DD son los dias,
+# HH son las horas, MM son los minutos y SS son los segundos. Las horas, minutos y segundos deben estar en formato de 2 digitos 
+# con un 0 al inicio, si es necesario.
 
-dias= int(input('Inserte la cantidad de dias: '))
-horas= int(input('Inserte la cantidad de horas: '))
-minutos= int(input('Inserte la cantidad de minutos: '))
-segundos= int(input('Inserte la cantidad de segundos: '))
+segundos = int(input('Introduce la cantidad de segundos: '))
 
-d=dias * 86400
-h=horas * 3600
-m=minutos * 60
-s=segundos
+SEGUNDOSDIA = 86400
+SEGUNDOSHORA = 3600
+SEGUNDOSMINUTO= 60
 
-total=d + h + m + s
+dia = segundos / SEGUNDOSDIA
+sdia = segundos % SEGUNDOSDIA
+hora = sdia / SEGUNDOSHORA
+shora = sdia % SEGUNDOSHORA
+minutos = shora / SEGUNDOSMINUTO
+sminutos = shora % SEGUNDOSMINUTO
 
-print('El total de segundos total es: ', total)
+print('La cantidad en formato DD:HH:MM:SS en donde.')
+print('DD = dias; HH = horas; MM = minutos; SS = segundos es:')
+print('\n','%02d' % dia, ':','%02d' % hora, ':','%02d' % minutos ,':','%02d' % sminutos, ) 
