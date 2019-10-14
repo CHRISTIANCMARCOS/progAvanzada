@@ -242,27 +242,27 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código:
 
-### Ejercicio 24:  
+### Ejercicio 24: Unidades de tiempo.  
 
-####  
-
-![Screenshot](EJERCICIO.jpg)
+#### Un programa que pide la duración de días, horas, minutos y segundos que calcula y desplega la cantidad total de segundos de duración.  
+ 
+![Screenshot](EJERCICIO24.jpg)
 
 ##### Click para ver el código:
 
-### Ejercicio 25: Unidades de tiempo.  
-
-#### Un programa que pide la duración de días, horas, minutos y segundos que calcula y desplega la cantidad total de segundos de duración.  
-
-![Screenshot](EJERCICIO25.jpg)
-
-##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO25.py
-
-### Ejercicio 26: Unidades de tiempo 2.  
+### Ejercicio 25: Unidades de tiempo 2.   
 
 #### Un programa que comienza por leer una cantidad de segundos introducidos. El programa debe despliega la cantidad equivalente en la forma de DD:HH:MM:SS, donde DD son los dias, HH son las horas, MM son los minutos y SS son los segundos.  
 
+![Screenshot](EJERCICIO25.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 26:  
+
+####  
+
 ![Screenshot](EJERCICIO26.jpg)
 
-##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO26.py
+##### Click para ver el código:
 
