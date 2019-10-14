@@ -262,7 +262,7 @@ Convierte cualquier dato al tipo decimal
 
 ####  
 
-![Screenshot](EJERCICIO26.jpg)
+![Screenshot](EJERCICIO.jpg)
 
 ##### Click para ver el código:
 
