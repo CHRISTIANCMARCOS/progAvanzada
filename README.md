@@ -248,7 +248,7 @@ Convierte cualquier dato al tipo decimal
  
 ![Screenshot](EJERCICIO24.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO24.py
 
 ### Ejercicio 25: Unidades de tiempo 2.   
 
@@ -256,7 +256,7 @@ Convierte cualquier dato al tipo decimal
 
 ![Screenshot](EJERCICIO25.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO25.py
 
 ### Ejercicio 26:  
 
