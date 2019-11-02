@@ -266,3 +266,354 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código:
 
+### Ejercicio 27:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 28:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 29:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 30:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 31:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 32:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 33:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 34:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 35:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 36:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 37:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 38:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 39:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 40:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 41:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 42:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 43:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 44:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 45:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 46:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 47:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 48:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 49:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 50:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 51:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 52:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 53:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 54:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 55:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 56:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 57:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 58:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 59:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 60:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 61:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 62:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 63:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 64:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 65:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 66:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 67:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 68:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 69:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 70:  
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
