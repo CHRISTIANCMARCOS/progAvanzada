@@ -210,37 +210,37 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO19.py
 
-### Ejercicio 20:  
+### Ejercicio 20: Ley del gas ideal. 
 
-####  
+#### Un programa que calcula la cantidad de gas en moles cuando el usuario suministra la presión, el volumen y la temperatura.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO20.jpg)
 
-##### Click para ver el código: 
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO20.py
 
-### Ejercicio 21:  
+### Ejercicio 21: Área de un triángulo.  
 
-####  
+#### Un programa que permite al usuario ingresar valores para b y h. El programa luego debe calcular y mostrar el área de un triángulo con longitud base b y altura h.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO21.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO21.py
 
-### Ejercicio 22:  
+### Ejercicio 22: Área de un triángulo (de nuevo). 
 
-####  
+#### El área del triángulo se puede calcular usando una fórmula.
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO22.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO22.py
 
-### Ejercicio 23:  
+### Ejercicio 23: Área de un polígono regular.  
 
-####  
+#### El área de un polígono regular se puede calcular usando una fórmula, donde s es la longitud de un lado y n es el número de lados. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO23.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO23.py
 
 ### Ejercicio 24: Unidades de tiempo.  
 
