@@ -402,21 +402,21 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código:
 
-### Ejercicio 44:  
+### Ejercicio 44: Fecha de nombre de vacaciones.  
 
-####  
+#### Un programa que leE un mes y un día del usuario. Si el mes y el dia coincidir con uno de los días festivos enumerados, entonces su programa debería mostrar nombre de vacaciones De lo contrario, su programa debe indicar que el mes ingresado y día no corresponde a un día festivo de fecha fija. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO44.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO44.py
 
-### Ejercicio 45:  
+### Ejercicio 45: ¿De qué color es ese cuadrado?.  
 
-####  
+#### Un programa que leE una posición del usuario. Use una declaración if para determinar si la columna comienza con un cuadrado negro o un cuadrado blanco. Luego use modular aritmética para informar el color del cuadrado en esa fila. Por ejemplo, si el usuario ingresa a1 entonces su programa debe informar que el cuadrado es negro. Si el usuario ingresa d5 entonces su programa debe informar que el cuadrado es blanco. Su programa puede asumir que siempre se ingresará una posición válida. No necesita realizar ningún error comprobación. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO45.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO45.py
 
 ### Ejercicio 46:  
 
