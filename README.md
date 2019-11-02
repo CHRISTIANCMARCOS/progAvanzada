@@ -55,10 +55,10 @@ Convierte cualquier dato al tipo entero
 ### float 
 
 Convierte cualquier dato al tipo decimal 
-# _____________________________________________________________________________________________________________________________________ 
+# ________________________________________________________________________________________________________________________________ 
 
 ##               Introducción a los ejercicios de programación
-# _____________________________________________________________________________________________________________________________________
+# ________________________________________________________________________________________________________________________________
 
 #### Ejercicios diseñados para desarrollar habilidades de análisis al practicar dividiendo pequeños problemas en secuencias de pasos. Además ayudará familiarizar con la sintaxis de Python. Para completar cada ejercicio, debe esperar usar algunas o todas estas características de Python:
 #### • Generar salida con declaraciones impresas.
