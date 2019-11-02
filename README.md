@@ -551,6 +551,11 @@ ________________________________________________________________________________
 
 ##### Click para ver el código:
 
+_______________________________________________________________________________________________________________________________________ 
+
+##               Ejercicios de ciclo
+_______________________________________________________________________________________________________________________________________
+
 ### Ejercicio 61: Promedio. 
 
 #### Un programa que calcula el promedio de una coleccion de valores insertados por el usuario, si el usuario introduce el valor 0 el programa debe dejar de pedir valores y posteriormente mostrar el promedio calculado. 
