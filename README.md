@@ -327,6 +327,10 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO33.py
 
+## Ejercicios de declaracion if.
+
+#### Las construcciones de programación que usaste para resolver los ejercicios en el anterior. El capítulo seguirá siendo útil a medida que aborde estos problemas. Además, los ejercicios de este capítulo requerirán que utilice construcciones de toma de decisiones para que sus programas pueden manejar una variedad de situaciones diferentes que puedan surgir.
+
 ### Ejercicio 34: ¿Par o impar?.  
 
 #### Un programa que lee un numero entero introducido por el usuario. Evalua si es par o impar. 
