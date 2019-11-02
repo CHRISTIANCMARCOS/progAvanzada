@@ -328,10 +328,10 @@ Convierte cualquier dato al tipo decimal
 ![Screenshot](EJERCICIO33.jpg)
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO33.py
-# _____________________________________________________________________________________________________________________________________
+# __________________________________________________________________________________________________________________________________
 
 ##               Ejercicios de declaracion if 
-# _____________________________________________________________________________________________________________________________________
+# __________________________________________________________________________________________________________________________________
 
 #### Las construcciones de programación que usaste para resolver los ejercicios en el anterior. El capítulo seguirá siendo útil a medida que aborde estos problemas. Además, los ejercicios de este capítulo requerirán que utilice construcciones de toma de decisiones para que sus programas pueden manejar una variedad de situaciones diferentes que puedan surgir.
 
