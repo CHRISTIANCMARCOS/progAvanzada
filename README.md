@@ -55,9 +55,10 @@ Convierte cualquier dato al tipo entero
 ### float 
 
 Convierte cualquier dato al tipo decimal 
-# __________________________________________________________________________________________________________________________________
+# _________________________________________________________________
+
 ##               Introducción a los ejercicios de programación
-# __________________________________________________________________________________________________________________________________
+# _________________________________________________________________
 
 #### Ejercicios diseñados para desarrollar habilidades de análisis al practicar dividiendo pequeños problemas en secuencias de pasos. Además ayudará familiarizar con la sintaxis de Python. Para completar cada ejercicio, debe esperar usar algunas o todas estas características de Python:
 #### • Generar salida con declaraciones impresas.
@@ -328,6 +329,7 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO33.py
 # _________________________________________________________________
+
 ##               Ejercicios de declaracion if 
 # _________________________________________________________________
 
@@ -549,10 +551,9 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código:
 
-# _____________________________________________________________________________________________________________________________________ 
-
+# _________________________________________________________________ 
 ##               Ejercicios de ciclo
-# _____________________________________________________________________________________________________________________________________
+# _________________________________________________________________
 
 ### Ejercicio 61: Promedio. 
 
