@@ -258,13 +258,13 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO25.py
 
-### Ejercicio 26:  
+### Ejercicio 26: Tiempo actual. 
 
-####  
+#### Un programa que muestra la hora y fecha actuales. El programa no requiere ninguna entrada de el usuario.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO26.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO26.py
 
 ### Ejercicio 27:  
 
@@ -282,13 +282,13 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código:
 
-### Ejercicio 29:  
+### Ejercicio 29: Celsius a Fahrenheit y Kelvin. 
 
-####  
+#### Un programa que debe mostrar la temperatura equivalente en grados Fahrenheit y grados Kelvin. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO29.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO29.py
 
 ### Ejercicio 30:  
 
@@ -314,31 +314,31 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código:
 
-### Ejercicio 33:  
+### Ejercicio 33: Pan de un día.  
 
-####  
+#### Un programa que debe mostrar el regular precio del pan, el descuento porque tiene un día y el precio total. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO33.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO33.py
 
-### Ejercicio 34:  
+### Ejercicio 34: ¿Par o impar?.  
 
-####  
+#### Un programa que lee un numero entero introducido por el usuario. Evalua si es par o impar. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO34.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO34.py
 
-### Ejercicio 35:  
+### Ejercicio 35: Años de perro. 
 
-####  
+#### Un programa que implemente la conversión de años humanos a años de perros.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO35.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO35.py
 
-### Ejercicio 36:  
+### Ejercicio 36:   
 
 ####  
 
@@ -426,13 +426,13 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código:
 
-### Ejercicio 47:  
+### Ejercicio 47: Fecha de nacimiento astrologica.  
 
-####  
+#### Un programa que pide al usuario que ingrese su mes y día de nacimiento. Entonces el programa debe informar el signo del zodiaco del usuario como parte de una salida adecuada mensaje. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO47.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO47.py
 
 ### Ejercicio 48:  
 
@@ -442,13 +442,13 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código:
 
-### Ejercicio 49:  
+### Ejercicio 49: Escala de richter.   
 
-####  
+#### un programa que lea la admiración del usuario y muestre la información apropiada descriptor como parte de un mensaje significativo. Por ejemplo, si el usuario ingresa 5.5 entonces su programa debe indicar que un terremoto de magnitud 5.5 se considera terremoto moderado. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO49.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO49.py
 
 ### Ejercicio 50:  
 
@@ -538,21 +538,21 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código:
 
-### Ejercicio 61:  
+### Ejercicio 61: Promedio. 
 
-####  
+#### Un programa que calcula el promedio de una coleccion de valores insertados por el usuario, si el usuario introduce el valor 0 el programa debe dejar de pedir valores y posteriormente mostrar el promedio calculado. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO61.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO61.py
 
-### Ejercicio 62:  
+### Ejercicio 62: Tabla de descuento.  
 
-####  
+#### Un programa que usa un ciclo while para generar una tabla mostrando el precio original, el descuento y el nuevo precio para los productos de $4.95, $9,95, $14.95, $24.95. Los descuentos y los nuevos precios deben de ser redondeados a dos decimales. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO62.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO62.py
 
 ### Ejercicio 63:  
 
@@ -602,13 +602,13 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código:
 
-### Ejercicio 69:  
+### Ejercicio 69: π aproximado.  
 
-####  
+#### Un programa que muestra 15 aproximaciones de π. La primera aproximación debe utilizar solo el primer término de la serie infinita. Cada aproximación adicional mostrado por el programa incluye un término más en la serie, haciendo una mejor aproximación de π que cualquiera de las aproximaciones mostradas anteriormente.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO69.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO69.py
 
 ### Ejercicio 70:  
 
