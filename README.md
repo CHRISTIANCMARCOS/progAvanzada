@@ -56,7 +56,12 @@ Convierte cualquier dato al tipo entero
 
 Convierte cualquier dato al tipo decimal 
 
-## Programas
+## Introducción a los ejercicios de programación.
+
+#### Ejercicios diseñados para desarrollar habilidades de análisis al practicar dividiendo pequeños problemas en secuencias de pasos. Además ayudará familiarizar con la sintaxis de Python. Para completar cada ejercicio, debe esperar usar algunas o todas estas características de Python:
+#### • Generar salida con declaraciones impresas.
+#### • Leer entrada, incluida la conversión de esa entrada al tipo apropiado.
+#### • Realizar cálculos con números enteros y números de coma flotante usando Python con operadores como +, -, *, /, //,% y **.
 
 ### Ejercicio 1: Dirección de envió.
 
