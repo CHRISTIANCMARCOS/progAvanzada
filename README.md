@@ -55,10 +55,9 @@ Convierte cualquier dato al tipo entero
 ### float 
 
 Convierte cualquier dato al tipo decimal 
-# ________________________________________________________________________________________________________________________________ 
-
+# __________________________________________________________________________________________________________________________________
 ##               Introducción a los ejercicios de programación
-# ________________________________________________________________________________________________________________________________
+# __________________________________________________________________________________________________________________________________
 
 #### Ejercicios diseñados para desarrollar habilidades de análisis al practicar dividiendo pequeños problemas en secuencias de pasos. Además ayudará familiarizar con la sintaxis de Python. Para completar cada ejercicio, debe esperar usar algunas o todas estas características de Python:
 #### • Generar salida con declaraciones impresas.
@@ -328,10 +327,9 @@ Convierte cualquier dato al tipo decimal
 ![Screenshot](EJERCICIO33.jpg)
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO33.py
-# __________________________________________________________________________________________________________________________________
-
+# ___________________________________________________________________
 ##               Ejercicios de declaracion if 
-# __________________________________________________________________________________________________________________________________
+# ___________________________________________________________________
 
 #### Las construcciones de programación que usaste para resolver los ejercicios en el anterior. El capítulo seguirá siendo útil a medida que aborde estos problemas. Además, los ejercicios de este capítulo requerirán que utilice construcciones de toma de decisiones para que sus programas pueden manejar una variedad de situaciones diferentes que puedan surgir.
 
