@@ -57,7 +57,7 @@ Convierte cualquier dato al tipo entero
 Convierte cualquier dato al tipo decimal 
 _______________________________________________________________________________________________________________________________________ 
 
-#               Introducción a los ejercicios de programación
+##               Introducción a los ejercicios de programación
 _______________________________________________________________________________________________________________________________________
 
 #### Ejercicios diseñados para desarrollar habilidades de análisis al practicar dividiendo pequeños problemas en secuencias de pasos. Además ayudará familiarizar con la sintaxis de Python. Para completar cada ejercicio, debe esperar usar algunas o todas estas características de Python:
@@ -330,7 +330,7 @@ ________________________________________________________________________________
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO33.py
 _______________________________________________________________________________________________________________________________________
 
-#               Ejercicios de declaracion if 
+##               Ejercicios de declaracion if 
 _______________________________________________________________________________________________________________________________________
 
 #### Las construcciones de programación que usaste para resolver los ejercicios en el anterior. El capítulo seguirá siendo útil a medida que aborde estos problemas. Además, los ejercicios de este capítulo requerirán que utilice construcciones de toma de decisiones para que sus programas pueden manejar una variedad de situaciones diferentes que puedan surgir.
