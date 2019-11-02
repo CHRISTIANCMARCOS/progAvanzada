@@ -55,6 +55,7 @@ Convierte cualquier dato al tipo entero
 ### float 
 
 Convierte cualquier dato al tipo decimal 
+_______________________________________________________________________________________________________________________________________
 
 ## Introducción a los ejercicios de programación.
 
