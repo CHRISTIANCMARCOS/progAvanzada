@@ -55,15 +55,8 @@ Convierte cualquier dato al tipo entero
 ### float 
 
 Convierte cualquier dato al tipo decimal 
-# _________________________________________________________________
 
-##               Introducción a los ejercicios de programación
-# _________________________________________________________________
-
-#### Ejercicios diseñados para desarrollar habilidades de análisis al practicar dividiendo pequeños problemas en secuencias de pasos. Además ayudará familiarizar con la sintaxis de Python. Para completar cada ejercicio, debe esperar usar algunas o todas estas características de Python:
-#### • Generar salida con declaraciones impresas.
-#### • Leer entrada, incluida la conversión de esa entrada al tipo apropiado.
-#### • Realizar cálculos con números enteros y números de coma flotante usando Python con operadores como +, -, *, /, //,% y **.
+# Programas ...............................................
 
 ### Ejercicio 1: Dirección de envió.
 
@@ -273,21 +266,21 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO26.py
 
-### Ejercicio 27:  
+### Ejercicio 27: Índice de masa corporal  
 
-####  
+#### Un programa que calcula el índice de masa corporal (IMC) de un individuo. El programa debe comenzar leyendo una altura y un peso del usuario.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO27.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO27.py
 
-### Ejercicio 28:  
+### Ejercicio 28: Escalofríos. 
 
-####  
+#### Un programa que comience leyendo la temperatura del aire y la velocidad del viento del usuario. Una vez que se hayan leído estos valores, el programa debe mostrar la sensación térmica índice redondeado al entero más cercano. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO28.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO28.py
 
 ### Ejercicio 29: Celsius a Fahrenheit y Kelvin. 
 
@@ -297,29 +290,29 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO29.py
 
-### Ejercicio 30:  
+### Ejercicio 30: Unidades de presión. 
 
-####  
+#### Un programa que lee la presión del usuario en kilopascales. Una vez que se ha leído la presión, el programa informa el equivalente presión en libras por pulgada cuadrada, milímetros de mercurio y atmósferas. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO30.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO30.py
 
-### Ejercicio 31:  
+### Ejercicio 31: Suma de los dígitos en un entero. 
 
-####  
+#### Un programa que lee un número entero de cuatro dígitos del usuario y muestra la suma de los dígitos en el número. Por ejemplo, si el usuario ingresa 3141, entonces el programa debe mostrar 3 + 1 + 4 + 1 = 9. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO31.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO31.py
 
-### Ejercicio 32:  
+### Ejercicio 32: Ordenar 3 enteros. 
 
-####  
+#### Un programa que lee tres enteros del usuario y los muestre ordenados orden (de menor a mayor). Usa las funciones min y max para encontrar el más pequeño y valores más grandes. El valor medio se puede encontrar calculando la suma de los tres valores, y luego restando el valor mínimo y el valor máximo.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO32.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO32.py
 
 ### Ejercicio 33: Pan de un día.  
 
@@ -328,12 +321,6 @@ Convierte cualquier dato al tipo decimal
 ![Screenshot](EJERCICIO33.jpg)
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO33.py
-# _________________________________________________________________
-
-##               Ejercicios de declaracion if 
-# _________________________________________________________________
-
-#### Las construcciones de programación que usaste para resolver los ejercicios en el anterior. El capítulo seguirá siendo útil a medida que aborde estos problemas. Además, los ejercicios de este capítulo requerirán que utilice construcciones de toma de decisiones para que sus programas pueden manejar una variedad de situaciones diferentes que puedan surgir.
 
 ### Ejercicio 34: ¿Par o impar?.  
 
