@@ -338,73 +338,73 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO35.py
 
-### Ejercicio 36:   
+### Ejercicio 36: Vocal o Consonante.  
 
-####  
+#### Un programa que lee una letra del alfabeto del usuario. Si el usuario ingresa a, e, i, o, u, entonces su programa debería mostrar un mensaje indicando que la letra ingresada es una vocal. Si el usuario ingresa y entonces su programa debería mostrar un mensaje que indique que a veces y es una vocal, y a veces y es una consonante. De lo contrario, su programa debería mostrar un mensaje que indica que la letra es una consonante. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO36.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO36.py
 
-### Ejercicio 37:  
+### Ejercicio 37: Nombra esa forma.  
 
-####  
+#### Un programa que determina el nombre de una forma a partir de su número de lados. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO37.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO37.py
 
-### Ejercicio 38:  
+### Ejercicio 38: Nombre del mes a la cantidad de días.  
 
-####  
+#### Un programa que lee el nombre de un mes del usuario como una cadena. Entonces el programa debe muestra la cantidad de días en ese mes. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO38.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO38.py
 
-### Ejercicio 39:  
+### Ejercicio 39: Niveles de sonido.  
 
-####  
+#### Un programa que lee un nivel de sonido en decibelios del usuario.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO39.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO39.py
 
-### Ejercicio 40:  
+### Ejercicio 40: Nombra ese triángulo.  
 
-####  
+#### Un programa que lee las longitudes de 3 lados de un triángulo del usuario y muestra un mensaje que indica el tipo de triángulo. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO40.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO40.py
 
-### Ejercicio 41:  
+### Ejercicio 41: Nota a frecuencia. 
 
-####  
+#### Un programa que lee el nombre de una nota del usuario y muestra la frecuencia de la nota.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO41.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO41.py
 
-### Ejercicio 42:  
+### Ejercicio 42: Frecuencia a tener en cuenta. 
 
-####  
+#### Un programa que comienza leyendo una frecuencia del usuario, si la frecuencia está dentro de un Hertz de un valor listado el programa lo reconoce. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO42.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO42.py
 
-### Ejercicio 43:  
+### Ejercicio 43: Caras sobre el dinero.  
 
-####  
+#### Un programa que lee la denominación de un billete del usuario. Luego, el programa debe muestra el nombre de la persona que aparece en el billete de la cantidad ingresada. Se debe mostrar un mensaje de error apropiado si no existe tal nota. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO43.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO43.py
 
 ### Ejercicio 44: Fecha de nombre de vacaciones.  
 
-#### Un programa que leE un mes y un día del usuario. Si el mes y el dia coincidir con uno de los días festivos enumerados, entonces su programa debería mostrar nombre de vacaciones De lo contrario, su programa debe indicar que el mes ingresado y día no corresponde a un día festivo de fecha fija. 
+#### Un programa que lee un mes y un día del usuario. Si el mes y el dia coincidir con uno de los días festivos enumerados, entonces su programa debería mostrar nombre de vacaciones De lo contrario, su programa debe indicar que el mes ingresado y día no corresponde a un día festivo de fecha fija. 
 
 ![Screenshot](EJERCICIO44.jpg)
 
@@ -418,13 +418,13 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO45.py
 
-### Ejercicio 46:  
+### Ejercicio 46: Temporada de mes y día. 
 
-####  
+#### Un programa en el que el usuario introduce el mes y el dia. El programa debe despliega la temporada de acuerdo ala informacion introducida. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO46.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO46.py
 
 ### Ejercicio 47: Fecha de nacimiento astrologica.  
 
@@ -434,13 +434,13 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO47.py
 
-### Ejercicio 48:  
+### Ejercicio 48: Zodiaco chino.  
 
-####  
+#### Un programa que lee un año del usuario y muestra el animal asociado con ese año.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO48.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO48.py
 
 ### Ejercicio 49: Escala de richter.   
 
@@ -537,10 +537,6 @@ Convierte cualquier dato al tipo decimal
 ![Screenshot](EJERCICIO.jpg)
 
 ##### Click para ver el código:
-
-# _________________________________________________________________ 
-##               Ejercicios de ciclo
-# _________________________________________________________________
 
 ### Ejercicio 61: Promedio. 
 
