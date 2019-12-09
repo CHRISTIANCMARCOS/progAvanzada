@@ -57,6 +57,13 @@ Convierte cualquier dato al tipo entero
 Convierte cualquier dato al tipo decimal 
 
 # Programas ...............................................
+### Ejercicio 0: BICIFLOR.
+
+#### Un programa que muestra un remitente y un destinatario, a fin de que se visualize para imprimir en un sobre de correo.
+
+![Screenshot](BICIFLOR.jpg) 
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/BICIFLOR.py
 
 ### Ejercicio 1: Dirección de envió.
 
@@ -617,3 +624,247 @@ Convierte cualquier dato al tipo decimal
 ![Screenshot](EJERCICIO70.jpg)
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO70.py
+
+### Ejercicio 71: Raíz cuadrada.  
+
+#### Programa que implemente el método de Newton para calcular y mostrar el cuadrado raíz de un número ingresado por el usuario. 
+
+![Screenshot](EJERCICIO71.jpg)
+
+##### Click para ver el código:https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO71.py
+
+### Ejercicio 72: ¿Es una cuerda un palíndromo?.   
+
+#### Programa que lee una cadena del usuario y usa un bucle para determinar si es o no un palíndromo. 
+
+![Screenshot](EJERCICIO72.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO72.py
+
+### Ejercicio 73: Palindromos de palabras múltiples.   
+
+#### Un programa que extienda su solución para que también ignore los signos de puntuación y trate las mayúsculas y letras minúsculas como equivalentes. 
+
+![Screenshot](EJERCICIO73.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO73.py
+
+### Ejercicio 74: Tabla de multiplicación.   
+
+#### Programa que muestra una tabla de multiplicación que muestra los productos de todas las combinaciones de enteros desde 1 por 1 hasta 10 veces 10. 
+
+![Screenshot](EJERCICIO74.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO74.py
+
+### Ejercicio 75: Máximo común divisor.   
+
+#### Programa que lee dos enteros positivos del usuario y use este algoritmo para determinar e informar su mayor divisor común.  
+
+![Screenshot](EJERCICIO75.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO75.py
+
+### Ejercicio 76: Factores primos.   
+
+#### Programa que lea un número entero del usuario. Si el valor ingresado por el usuario tiene menos de 2, entonces su programa debería mostrar un mensaje de error apropiado.  
+
+![Screenshot](EJERCICIO76.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO76.py
+
+### Ejercicio 77: Binario a decimal.   
+
+#### Programa que convierte un número binario (base 2) a decimal (base 10). 
+
+![Screenshot](EJERCICIO77.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO77.py
+
+### Ejercicio 78:    
+
+#### Programa que convierte un numero decimal(base 10)que inserte un usuario como numero y despues use el lograritmo division mostrado para realizar la conversion.   
+
+![Screenshot](EJERCICIO78.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO78.py
+
+### Ejercicio 79: Número entero máximo.   
+
+#### Programa que actualiza el número máximo encontrado y cuente el hecho de que realizó una actualización. 
+
+![Screenshot](EJERCICIO79.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO79.py
+
+### Ejercicio 80: Coin Flip Simulation.   
+
+#### Programa que debe voltearse simulado monedas hasta que ocurran 3 caras consecutivas de 3 colas consecutivas. Mostrar una H cada vez que el resultado es cara y una T cada vez que el resultado es cruz, con todos los resultados mostrados en la misma línea.  
+
+![Screenshot](EJERCICIO80.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO80.py
+
+### Ejercicio 81: Hipotenusa.    
+
+#### Programa que escribe una funcion que tome la longitud de los dos lados mas cortos de un triangulo rectangulo como argumentos. 
+
+![Screenshot](EJERCICIO81.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO81.py
+
+### Ejercicio 82: Tarifa.   
+
+#### Programa que escriba una funcion que tome la distancia viajada (km) el cual debe ser el unico argumento y regrese la tarifa total como resultado y que demuestre la funcion.  
+
+![Screenshot](EJERCICIO82.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO82.py
+
+### Ejercicio 83: Envio.   
+
+#### Programa que escribe una funcion que tome el numero de productos como su unico argumento Regrese el costo de encio total como el resutado de la funcion, incluyaun programa principal que lea el numero de productos comprados por el ususario y que despliegue el costo total de envio. 
+
+![Screenshot](EJERCICIO83.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO83.py
+
+### Ejercicio 84: Convertir un numero entero a numero cardinal.   
+
+#### Programa principal que demuestra su funcion desplegando cada entero del 1 al 12 y su numero cardinal. 
+
+![Screenshot](EJERCICIO84.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO84.py
+
+### Ejercicio 85: Mediana de tres valores.   
+
+#### Escribe una función que tome tres números como parámetros y devuelva el valor medio de esos parámetros como resultado. Incluya un programa principal que lea tres valores de el usuario y muestra su mediana.  
+
+![Screenshot](EJERCICIO85.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO85.py
+
+### Ejercicio 86: Los doce días de navidad.   
+
+#### Programa que muestra la letra completa de Los doce Días de navidad.  
+
+![Screenshot](EJERCICIO86.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO86.py
+
+### Ejercicio 87: Centrar una cadena en la terminal.   
+
+#### Escribe una función que tome una cadena de caracteres como primer parámetro y el ancho de el terminal en caracteres como su segundo parámetro. Su función debería devolver un nuevo cadena que consta de la cadena original y el número correcto de espacios iniciales para que la cadena original aparezca centrada dentro del ancho proporcionado cuando está impreso.  
+
+![Screenshot](EJERCICIO87.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO87.py
+
+### Ejercicio 88: ¿Es un triángulo válido?.   
+
+#### La función tomará 3 parámetros y devolverá un resultado booleano. Además, escribe un programa que lee 3 longitudes del usuario y demuestra el comportamiento de este función. 
+
+![Screenshot](EJERCICIO88.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO88.py
+
+### Ejercicio 89: Capitalizarlo.   
+
+#### función que capitaliza los caracteres apropiados en una cadena. Una "i" minúscula debe ser reemplazada por una "I" mayúscula si está precedido y seguido por un espacio. 
+
+![Screenshot](EJERCICIO89.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO89.py
+
+### Ejercicio 90: ¿Una cadena representa un número entero?.   
+
+#### Programa principal que lea una cadena del usuario e informe si o no representa un número entero. Asegúrese de que el programa principal no se ejecutará si el archivo que contiene su solución se importa a otro programa.  
+
+![Screenshot](EJERCICIO90.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO90.py
+
+### Ejercicio 91: Precedencia del operador.   
+
+#### Función llamada precedencia que devuelva un número entero que represente la precedencia de un operador matemático. Una cadena que contiene el operador se pasará a la función como su único parámetro.  
+
+![Screenshot](EJERCICIO91.jpg)
+
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO91.py
+
+### Ejercicio 92:   
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 93:   
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 94:   
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 95:   
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 96:   
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 97:   
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 98:   
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 99:   
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+### Ejercicio 100:   
+
+####  
+
+![Screenshot](EJERCICIO.jpg)
+
+##### Click para ver el código:
+
+
+
+
