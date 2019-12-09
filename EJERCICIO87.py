@@ -21,9 +21,9 @@ def centro(s, width):
     return resultado
 
 def main():
-    print(centro(' una fabulosa historia', WIDTH))
-    print(centro('por: ', WIDTH))
-    print(centro('algunos famosos', WIDTH))
+    print(centro(' Es mecatronica', WIDTH))
+    print(centro('para todos ', WIDTH))
+    print(centro('un muy buena carrera', WIDTH))
     print()
-    print('Una vez en el timpo...')
+    print('Por siempre...')
 main()
