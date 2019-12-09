@@ -59,7 +59,7 @@ Convierte cualquier dato al tipo decimal
 # Programas ...............................................
 ### Ejercicio 0: BICIFLOR.
 
-#### Un programa que muestra un remitente y un destinatario, a fin de que se visualize para imprimir en un sobre de correo.
+#### Un programa que muestra el codigo turttle.
 
 ![Screenshot](BICIFLOR.jpg) 
 
@@ -793,77 +793,77 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO91.py
 
-### Ejercicio 92:   
+### Ejercicio 92: ¿Es un número primo?.   
 
-####  
+#### Programa principal que lea un número entero del usuario y muestra un mensaje que indica si es primo o no.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO92.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO92.py
 
-### Ejercicio 93:   
+### Ejercicio 93: Próximo siguiente   
 
-####  
+#### Función llamada nextPrime que encuentra y devuelve el primer número primo más grande que un número entero, n.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO93.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO93.py
 
-### Ejercicio 94:   
+### Ejercicio 94: Random Password.   
 
-####  
+#### Función que genere una contraseña aleatoria. La contraseña debe tener un longitud aleatoria de entre 7 y 10 caracteres. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO94.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO94.py
 
-### Ejercicio 95:   
+### Ejercicio 95: Matrícula Aleatoria.   
 
-####  
+#### Función que genere una matrícula aleatoria. Tu función debería tener probabilidades aproximadamente iguales de generar una secuencia de caracteres para una licencia anterior placa o una nueva placa de matrícula. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO95.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO95.py
 
-### Ejercicio 96:   
+### Ejercicio 96: Verificar una contraseña.   
 
-####  
+#### Función que determina si una contraseña es o no es bueno. Definiremos una buena contraseña como una que tenga al menos 8 caracteres de largo y contiene al menos una letra mayúscula, al menos una letra minúscula y al menos un número.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO96.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO96.py
 
-### Ejercicio 97:   
+### Ejercicio 97: Buena contraseña aleatoria.  
 
-####  
+#### Progrma que usa las soluciones para los EJERCICIOS 94 y 96, escriba un programa que genere un azar buena contraseña y la muestra. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO97.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO97.py
 
-### Ejercicio 98:   
+### Ejercicio 98: Dígitos hexadecimales y decimales.   
 
-####  
+#### funciones, hex2int e int2hex, que conviertan entre hexadecimales dígitos (0, 1, 2, 3, 4, 5, 6, 7, 8, 9, A, B, C, D, E y F) y enteros de base 10. La función hex2int es responsable de convertir una cadena que contiene un solo hexadecimal dígito a un entero de base 10, mientras que la función int2hex es responsable de convertir un entero entre 0 y 15 a un solo dígito hexadecimal.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO98.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO98.py
 
-### Ejercicio 99:   
+### Ejercicio 99: Conversiones de bases arbitrarias.  
 
-####  
+#### programa que permita al usuario convertir un número de una base a otra. Su programa debe admitir bases entre 2 y 16 para el número de entrada y el número de resultado. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO99.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO99.py
 
-### Ejercicio 100:   
+### Ejercicio 100: Días en un mes.   
 
-####  
+#### función que determine cuántos días hay en un mes en particular. La función tomará dos parámetros: el mes como un entero entre 1 y 12, y el año como un entero de cuatro dígitos. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO100.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO100.py
 
 
 
