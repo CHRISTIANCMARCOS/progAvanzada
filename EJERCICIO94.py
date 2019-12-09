@@ -2,7 +2,6 @@
 
 # Random Password
 
-
 # 3Escribe una función que genere una contraseña aleatoria. La contraseña debe tener un
 # longitud aleatoria de entre 7 y 10 caracteres. Cada personaje debe ser al azar
 # seleccionado de las posiciones 33 a 126 en la tabla ASCII. Tu función no tomará
@@ -26,7 +25,7 @@ def randomPassword():
     return result 
 
 def main(): 
-    print("Your random password is: ", randomPassword())
+    print("Tu contraseña aleatoria es: ", randomPassword())
 
-if __name__ == "__name__":
+if __name__ == "__main__":
     main()
