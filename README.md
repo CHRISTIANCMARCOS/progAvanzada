@@ -450,93 +450,93 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO49.py
 
-### Ejercicio 50:  
+### Ejercicio 50: Raíces de una función cuadrática.  
 
-####  
+#### Un programa que calcula las raíces reales de una función cuadrática.   
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO50.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO50.py
 
-### Ejercicio 51:  
+### Ejercicio 51: Calificación de letras a puntos de calificación.  
 
-####  
+#### Un programa que comienza leyendo una calificación de letra del usuario.El programa calcula y muestra el número equivalente de puntos de calificación. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO51.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO51.py
 
-### Ejercicio 52:  
+### Ejercicio 52: Calificación de puntos a calificación de letras.  
 
-####  
+#### Programa que invierte el proceso y convierte de un valor de punto de calificación introducido por el usuario a un grado de la letra.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO52.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO52.py
 
-### Ejercicio 53:  
+### Ejercicio 53: Evaluar empleados.   
 
-####  
+#### Programa que lee una calificación del usuario e indica si el rendimiento fue inaceptable, aceptable o meritorio. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO53.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO53.py
 
-### Ejercicio 54:  
+### Ejercicio 54: Longitudes de onda de luz visible.  
 
-####  
+#### Programa que lee la longitud de onda del usuario e informa su color. Monitor un mensaje de error apropiado si la longitud de onda ingresada por el usuario está fuera de espectro visible.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO54.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO54.py
 
-### Ejercicio 55:  
+### Ejercicio 55: Frecuencia para nombrar.  
 
-####  
+#### Programa que lee la frecuencia de la radiación del usuario y muestra el nombre apropiado.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO55.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO55.py
 
-### Ejercicio 56:  
+### Ejercicio 56: Bill de teléfono celular.  
 
-####  
+#### Programa que lee la cantidad de minutos y mensajes de texto utilizados en un mes del usuario. Muestra el cargo base, el cargo por minutos adicionales (si corresponde), cargo adicional por mensaje de texto (si corresponde), la tarifa 911, impuestos y el monto total de la factura.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO56.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO56.py
 
-### Ejercicio 57:  
+### Ejercicio 57: ¿Es un año bisiesto?.  
 
-####  
+#### Programa que lea un año del usuario y muestre un mensaje que indique si es o no un año bisiesto.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO57.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO57.py
 
-### Ejercicio 58:  
+### Ejercicio 58: Día siguiente.  
 
-####  
+#### Programa que lee una fecha del usuario y calcula su sucesor inmediato. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO58.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO58.py
 
-### Ejercicio 59:  
+### Ejercicio 59: ¿Es válida una matrícula?.  
 
-####  
+#### Programa que muestra un mensaje que indique si los caracteres son válidos para una placa de estilo anterior o una placa de estilo más nueva. Su programa debe mostrar un mensaje apropiado si la cadena ingresada por el usuario no es válida para estilo de matrícula. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO59.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO59.py
 
-### Ejercicio 60:  
+### Ejercicio 60: Pagos de ruleta.  
 
-####  
+#### Programa que simula el giro de una rueda de ruleta utilizando el método aleatorio de Python generador de números, muestra el número seleccionado y todas las apuestas que deben ser pagados. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO60.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO60.py
 
 ### Ejercicio 61: Promedio. 
 
@@ -554,53 +554,53 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO62.py
 
-### Ejercicio 63:  
+### Ejercicio 63: Tabla de conversión de temperatura.  
 
-####  
+#### Programa que muestra una tabla de conversión de temperatura para grados Celsius y grados Fahrenheit.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO63.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO63.py
 
-### Ejercicio 64:  
+### Ejercicio 64: No más centavos.  
 
-####  
+#### Programa que lee los precios del usuario hasta que se ingrese una línea en blanco.Muestra el costo total de todos los artículos ingresados en una línea, seguido del monto debido si el cliente paga con efectivo en una segunda línea. El monto adeudado por un efectivo el pago debe redondearse al níquel más cercano. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO64.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO64.py
 
-### Ejercicio 65:  
+### Ejercicio 65: Calcular el perímetro de un polígono.  
 
-####  
+#### Programa que calcula el perímetro de un polígono. Comience leyendo la x, valores y para el primer punto en el perímetro del polígono del usuario.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO65.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO65.py
 
-### Ejercicio 66:  
+### Ejercicio 66: Calcular un promedio de calificaciones.  
 
-####  
+#### Programa que calcula el promedio de calificaciones de un número arbitrario de calificaciones de letras ingresadas por el usuario.
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO66.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO66.py
 
-### Ejercicio 67:  
+### Ejercicio 67: Precio de admisión.  
 
-####  
+#### Programa que comienza leyendo las edades de todos los invitados en un grupo del usuario, con una edad ingresada en cada línea. 
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO67.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO67.py
 
-### Ejercicio 68:  
+### Ejercicio 68: Bits de paridad.  
 
-####  
+#### Programa que calcula el bit de paridad para grupos de 8 bits ingresados, por usuario usando paridad par. Su programa debe leer cadenas que contengan 8 bits hasta que el usuario ingresa una línea en blanco.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO68.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO68.py
 
 ### Ejercicio 69: π aproximado.  
 
@@ -610,10 +610,10 @@ Convierte cualquier dato al tipo decimal
 
 ##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO69.py
 
-### Ejercicio 70:  
+### Ejercicio 70: Cifrado César  
 
-####  
+#### Programa que implementa el cifrado cesar. Permite que el usuario inserte el mensaje y la cantidad de espacios a moverse, y despues despliega el mensaje movido.  
 
-![Screenshot](EJERCICIO.jpg)
+![Screenshot](EJERCICIO70.jpg)
 
-##### Click para ver el código:
+##### Click para ver el código: https://github.com/CHRISTIANCMARCOS/progAvanzada/blob/master/EJERCICIO70.py
